@@ -24,9 +24,11 @@ public class LocalToLocal {
 		ProcessBuilder processBuilder = new ProcessBuilder(
 				"C:\\Users\\VaibhavGupta\\AppData\\Local\\Programs\\Git\\bin\\bash.exe" + "", // Path to bash
 				"-c",
+
 				
-
-
+				
+				
+				
 				
 				String.format(
 						"C:/Users/VaibhavGupta/eclipse-workspace/fileTransfer/src/main/script\\ file/script.sh"
@@ -56,5 +58,3 @@ public class LocalToLocal {
 		}
 	}
 }
-	
-	
